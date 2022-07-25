@@ -1,0 +1,10 @@
+128x128x128
+
+~
+
+mode:worley
+inverted:false
+octaveCount:5
+frequency:5.0
+lacunarity:2.0
+persistence:0.7
